@@ -26,13 +26,13 @@ public class Operaciones {
     return resta;
   }
   
-  public int multiplicacion(int numero1, int numero2){
+  public int multiplicar(int numero1, int numero2){
      int multiplicacion=numero1*numero2;
      return multiplicacion;
   }
   
   
-  public int division(int numero1, int numero2){
+  public int dividir(int numero1, int numero2){
      int division=numero1/numero2;
      return division;
   }
